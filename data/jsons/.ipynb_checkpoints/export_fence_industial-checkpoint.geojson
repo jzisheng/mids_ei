@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-02-27T16:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/712494692",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "plant:output:electricity": "yes",
+        "power": "plant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.3082595,
+              35.4909527
+            ],
+            [
+              -78.3082896,
+              35.4880977
+            ],
+            [
+              -78.3082899,
+              35.4880686
+            ],
+            [
+              -78.3067501,
+              35.488058
+            ],
+            [
+              -78.3064143,
+              35.4881834
+            ],
+            [
+              -78.3058874,
+              35.4881859
+            ],
+            [
+              -78.3047505,
+              35.489365
+            ],
+            [
+              -78.3047444,
+              35.4905591
+            ],
+            [
+              -78.3082595,
+              35.4909527
+            ]
+          ]
+        ]
+      },
+      "id": "way/712494692"
+    }
+  ]
+}

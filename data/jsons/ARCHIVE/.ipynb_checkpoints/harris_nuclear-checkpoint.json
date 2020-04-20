@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-02-10T20:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32248471",
+        "generator:method": "fission",
+        "name": "Harris Nuclear Plant",
+        "operator": "Duke Energy",
+        "plant:output:electricity": "900 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1568903",
+        "wikipedia": "en:Shearon Harris Nuclear Power Plant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9574507,
+              35.6300991
+            ],
+            [
+              -78.954232,
+              35.6313199
+            ],
+            [
+              -78.9546268,
+              35.6321013
+            ],
+            [
+              -78.954438,
+              35.632471
+            ],
+            [
+              -78.9541805,
+              35.6325756
+            ],
+            [
+              -78.9544208,
+              35.633057
+            ],
+            [
+              -78.9532707,
+              35.6334965
+            ],
+            [
+              -78.9541118,
+              35.6350591
+            ],
+            [
+              -78.9553221,
+              35.635666
+            ],
+            [
+              -78.9569013,
+              35.6351079
+            ],
+            [
+              -78.9570988,
+              35.6354707
+            ],
+            [
+              -78.958206,
+              35.6350521
+            ],
+            [
+              -78.9566696,
+              35.6323175
+            ],
+            [
+              -78.958369,
+              35.6316618
+            ],
+            [
+              -78.9574507,
+              35.6300991
+            ]
+          ]
+        ]
+      },
+      "id": "way/32248471"
+    }
+  ]
+}

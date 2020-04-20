@@ -1,0 +1,1566 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-02-27T03:12:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970436",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950693,
+              35.56206
+            ],
+            [
+              -78.5950692,
+              35.5620272
+            ],
+            [
+              -78.5946454,
+              35.5620279
+            ],
+            [
+              -78.5946455,
+              35.5620608
+            ],
+            [
+              -78.5950693,
+              35.56206
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970437",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950692,
+              35.5619951
+            ],
+            [
+              -78.5950693,
+              35.5619618
+            ],
+            [
+              -78.5944294,
+              35.561961
+            ],
+            [
+              -78.5944293,
+              35.5619943
+            ],
+            [
+              -78.5950692,
+              35.5619951
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970438",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950702,
+              35.5619352
+            ],
+            [
+              -78.5950703,
+              35.5619019
+            ],
+            [
+              -78.5944304,
+              35.5619011
+            ],
+            [
+              -78.5944304,
+              35.5619344
+            ],
+            [
+              -78.5950702,
+              35.5619352
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970439",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950734,
+              35.5608621
+            ],
+            [
+              -78.5950734,
+              35.5608288
+            ],
+            [
+              -78.5944335,
+              35.560828
+            ],
+            [
+              -78.5944335,
+              35.5608613
+            ],
+            [
+              -78.5950734,
+              35.5608621
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970440",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950734,
+              35.5609245
+            ],
+            [
+              -78.5950734,
+              35.5608912
+            ],
+            [
+              -78.5944335,
+              35.5608904
+            ],
+            [
+              -78.5944335,
+              35.5609237
+            ],
+            [
+              -78.5950734,
+              35.5609245
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970441",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950723,
+              35.5609869
+            ],
+            [
+              -78.5950724,
+              35.5609536
+            ],
+            [
+              -78.5944325,
+              35.5609528
+            ],
+            [
+              -78.5944324,
+              35.5609861
+            ],
+            [
+              -78.5950723,
+              35.5609869
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970442",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950744,
+              35.5610484
+            ],
+            [
+              -78.5950744,
+              35.5610151
+            ],
+            [
+              -78.5944346,
+              35.5610143
+            ],
+            [
+              -78.5944345,
+              35.5610476
+            ],
+            [
+              -78.5950744,
+              35.5610484
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970443",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950775,
+              35.5611116
+            ],
+            [
+              -78.5950776,
+              35.5610783
+            ],
+            [
+              -78.5944377,
+              35.5610776
+            ],
+            [
+              -78.5944376,
+              35.5611108
+            ],
+            [
+              -78.5950775,
+              35.5611116
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970444",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950734,
+              35.5611757
+            ],
+            [
+              -78.5950734,
+              35.5611424
+            ],
+            [
+              -78.5944335,
+              35.5611416
+            ],
+            [
+              -78.5944335,
+              35.5611749
+            ],
+            [
+              -78.5950734,
+              35.5611757
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970445",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950754,
+              35.5612398
+            ],
+            [
+              -78.5950755,
+              35.5612065
+            ],
+            [
+              -78.5944356,
+              35.5612057
+            ],
+            [
+              -78.5944356,
+              35.561239
+            ],
+            [
+              -78.5950754,
+              35.5612398
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970446",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950736,
+              35.5613023
+            ],
+            [
+              -78.5950737,
+              35.5612711
+            ],
+            [
+              -78.5942199,
+              35.5612679
+            ],
+            [
+              -78.5942197,
+              35.5612991
+            ],
+            [
+              -78.5950736,
+              35.5613023
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970447",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950715,
+              35.5613664
+            ],
+            [
+              -78.5950717,
+              35.5613352
+            ],
+            [
+              -78.5942178,
+              35.561332
+            ],
+            [
+              -78.5942176,
+              35.5613632
+            ],
+            [
+              -78.5950715,
+              35.5613664
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970448",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950704,
+              35.5614279
+            ],
+            [
+              -78.5950706,
+              35.5613967
+            ],
+            [
+              -78.5942168,
+              35.5613935
+            ],
+            [
+              -78.5942166,
+              35.5614247
+            ],
+            [
+              -78.5950704,
+              35.5614279
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970449",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950704,
+              35.5614903
+            ],
+            [
+              -78.5950706,
+              35.5614591
+            ],
+            [
+              -78.5942168,
+              35.5614559
+            ],
+            [
+              -78.5942166,
+              35.5614871
+            ],
+            [
+              -78.5950704,
+              35.5614903
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970450",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950704,
+              35.5615535
+            ],
+            [
+              -78.5950706,
+              35.5615223
+            ],
+            [
+              -78.5942168,
+              35.5615191
+            ],
+            [
+              -78.5942166,
+              35.5615503
+            ],
+            [
+              -78.5950704,
+              35.5615535
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970451",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950715,
+              35.5616176
+            ],
+            [
+              -78.5950717,
+              35.5615864
+            ],
+            [
+              -78.5942178,
+              35.5615832
+            ],
+            [
+              -78.5942176,
+              35.5616144
+            ],
+            [
+              -78.5950715,
+              35.5616176
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970452",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950725,
+              35.5616833
+            ],
+            [
+              -78.5950727,
+              35.5616521
+            ],
+            [
+              -78.5942189,
+              35.5616489
+            ],
+            [
+              -78.5942187,
+              35.5616801
+            ],
+            [
+              -78.5950725,
+              35.5616833
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970453",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950694,
+              35.561744
+            ],
+            [
+              -78.5950696,
+              35.5617128
+            ],
+            [
+              -78.5942157,
+              35.5617096
+            ],
+            [
+              -78.5942156,
+              35.5617408
+            ],
+            [
+              -78.5950694,
+              35.561744
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970454",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950694,
+              35.5618064
+            ],
+            [
+              -78.5950696,
+              35.5617752
+            ],
+            [
+              -78.5942157,
+              35.561772
+            ],
+            [
+              -78.5942156,
+              35.5618032
+            ],
+            [
+              -78.5950694,
+              35.5618064
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970455",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5950704,
+              35.5618696
+            ],
+            [
+              -78.5950706,
+              35.5618384
+            ],
+            [
+              -78.5942168,
+              35.5618352
+            ],
+            [
+              -78.5942166,
+              35.5618664
+            ],
+            [
+              -78.5950704,
+              35.5618696
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970456",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595973,
+              35.5621242
+            ],
+            [
+              -78.5959732,
+              35.562093
+            ],
+            [
+              -78.5951193,
+              35.5620898
+            ],
+            [
+              -78.5951191,
+              35.562121
+            ],
+            [
+              -78.595973,
+              35.5621242
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970457",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595974,
+              35.5620627
+            ],
+            [
+              -78.5959742,
+              35.5620315
+            ],
+            [
+              -78.5951204,
+              35.5620282
+            ],
+            [
+              -78.5951202,
+              35.5620594
+            ],
+            [
+              -78.595974,
+              35.5620627
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970458",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5959719,
+              35.5619994
+            ],
+            [
+              -78.5959721,
+              35.5619682
+            ],
+            [
+              -78.5951183,
+              35.561965
+            ],
+            [
+              -78.5951181,
+              35.5619962
+            ],
+            [
+              -78.5959719,
+              35.5619994
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970459",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595974,
+              35.5619371
+            ],
+            [
+              -78.5959742,
+              35.5619059
+            ],
+            [
+              -78.5951204,
+              35.5619026
+            ],
+            [
+              -78.5951202,
+              35.5619338
+            ],
+            [
+              -78.595974,
+              35.5619371
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970460",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595973,
+              35.561873
+            ],
+            [
+              -78.5959732,
+              35.5618418
+            ],
+            [
+              -78.5951193,
+              35.5618386
+            ],
+            [
+              -78.5951191,
+              35.5618698
+            ],
+            [
+              -78.595973,
+              35.561873
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970461",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5959761,
+              35.5618106
+            ],
+            [
+              -78.5959763,
+              35.5617794
+            ],
+            [
+              -78.5951224,
+              35.5617762
+            ],
+            [
+              -78.5951223,
+              35.5618074
+            ],
+            [
+              -78.5959761,
+              35.5618106
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970462",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5959774,
+              35.5617493
+            ],
+            [
+              -78.5959776,
+              35.5617181
+            ],
+            [
+              -78.5951237,
+              35.5617149
+            ],
+            [
+              -78.5951235,
+              35.5617461
+            ],
+            [
+              -78.5959774,
+              35.5617493
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970463",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957614,
+              35.561684
+            ],
+            [
+              -78.5957615,
+              35.5616507
+            ],
+            [
+              -78.5951216,
+              35.5616499
+            ],
+            [
+              -78.5951215,
+              35.5616832
+            ],
+            [
+              -78.5957614,
+              35.561684
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970464",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957624,
+              35.5616199
+            ],
+            [
+              -78.5957625,
+              35.5615866
+            ],
+            [
+              -78.5951226,
+              35.5615859
+            ],
+            [
+              -78.5951226,
+              35.5616192
+            ],
+            [
+              -78.5957624,
+              35.5616199
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970465",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957604,
+              35.5615567
+            ],
+            [
+              -78.5957604,
+              35.5615234
+            ],
+            [
+              -78.5951206,
+              35.5615226
+            ],
+            [
+              -78.5951205,
+              35.5615559
+            ],
+            [
+              -78.5957604,
+              35.5615567
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970466",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957635,
+              35.5614943
+            ],
+            [
+              -78.5957635,
+              35.561461
+            ],
+            [
+              -78.5951237,
+              35.5614603
+            ],
+            [
+              -78.5951236,
+              35.5614936
+            ],
+            [
+              -78.5957635,
+              35.5614943
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970467",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957635,
+              35.5614311
+            ],
+            [
+              -78.5957635,
+              35.5613978
+            ],
+            [
+              -78.5951237,
+              35.561397
+            ],
+            [
+              -78.5951236,
+              35.5614303
+            ],
+            [
+              -78.5957635,
+              35.5614311
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970468",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5955478,
+              35.5613674
+            ],
+            [
+              -78.5955481,
+              35.5613337
+            ],
+            [
+              -78.5951176,
+              35.561331
+            ],
+            [
+              -78.5951173,
+              35.5613647
+            ],
+            [
+              -78.5955478,
+              35.5613674
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970469",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5955499,
+              35.5613058
+            ],
+            [
+              -78.5955502,
+              35.5612721
+            ],
+            [
+              -78.5951197,
+              35.5612694
+            ],
+            [
+              -78.5951193,
+              35.5613032
+            ],
+            [
+              -78.5955499,
+              35.5613058
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970470",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595553,
+              35.5612426
+            ],
+            [
+              -78.5955533,
+              35.5612089
+            ],
+            [
+              -78.5951228,
+              35.5612062
+            ],
+            [
+              -78.5951224,
+              35.5612399
+            ],
+            [
+              -78.595553,
+              35.5612426
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970471",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.595553,
+              35.5611792
+            ],
+            [
+              -78.5955533,
+              35.5611455
+            ],
+            [
+              -78.5951228,
+              35.5611428
+            ],
+            [
+              -78.5951224,
+              35.5611765
+            ],
+            [
+              -78.595553,
+              35.5611792
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970472",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957655,
+              35.5611142
+            ],
+            [
+              -78.5957656,
+              35.5610809
+            ],
+            [
+              -78.5951257,
+              35.5610801
+            ],
+            [
+              -78.5951257,
+              35.5611134
+            ],
+            [
+              -78.5957655,
+              35.5611142
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970473",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957645,
+              35.5610509
+            ],
+            [
+              -78.5957646,
+              35.5610177
+            ],
+            [
+              -78.5951247,
+              35.5610169
+            ],
+            [
+              -78.5951246,
+              35.5610502
+            ],
+            [
+              -78.5957645,
+              35.5610509
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970474",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957645,
+              35.5609869
+            ],
+            [
+              -78.5957646,
+              35.5609536
+            ],
+            [
+              -78.5951247,
+              35.5609528
+            ],
+            [
+              -78.5951246,
+              35.5609861
+            ],
+            [
+              -78.5957645,
+              35.5609869
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970475",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957676,
+              35.5609253
+            ],
+            [
+              -78.5957677,
+              35.5608921
+            ],
+            [
+              -78.5951278,
+              35.5608913
+            ],
+            [
+              -78.5951277,
+              35.5609246
+            ],
+            [
+              -78.5957676,
+              35.5609253
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593970476",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.5957676,
+              35.5608621
+            ],
+            [
+              -78.5957677,
+              35.5608288
+            ],
+            [
+              -78.5951278,
+              35.560828
+            ],
+            [
+              -78.5951277,
+              35.5608613
+            ],
+            [
+              -78.5957676,
+              35.5608621
+            ]
+          ]
+        ]
+      },
+      "id": "way/593970476"
+    }
+  ]
+}

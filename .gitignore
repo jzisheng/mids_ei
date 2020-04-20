@@ -1,2 +1,7 @@
 *.tif
 *.png
+*.tif
+*.geojson
+*/cache/*
+api-*
+*.jpg
